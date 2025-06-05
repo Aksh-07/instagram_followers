@@ -6,8 +6,8 @@ from time import sleep
 
 address = "C:\chromedriver\chromedriver.exe"
 
-email = "akshdeep727"
-password = "0dumt2ufeupm"
+email = ""
+password = ""
 
 
 class Insta:
